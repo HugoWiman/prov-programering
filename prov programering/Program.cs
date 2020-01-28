@@ -6,7 +6,7 @@ namespace prov_programering
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+          
         }
     }
 }
