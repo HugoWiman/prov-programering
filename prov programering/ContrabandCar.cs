@@ -4,7 +4,8 @@ using System.Text;
 
 namespace prov_programering
 {
-    class ContrabandCar
+    class ContrabandCar:car
     {
+        //contraban cars klassen som är arv av cars klassen
     }
 }

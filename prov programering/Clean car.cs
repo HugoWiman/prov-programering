@@ -4,7 +4,9 @@ using System.Text;
 
 namespace prov_programering
 {
-    class Clean_car
+    class Clean_car:car
     {
+        
+
     }
 }
